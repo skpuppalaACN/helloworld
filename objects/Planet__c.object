@@ -168,7 +168,6 @@
     </fields>
     <fields>
         <fullName>Galaxy__c</fullName>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Galaxy</label>
         <required>false</required>
